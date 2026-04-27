@@ -19,7 +19,7 @@ fun ejecutarBloque5() {
     println("\n=== BLOQUE 5: FUNCIONES ===")
 
     // 21. Saludo Personalizado
-    println("21. ${saludar("Jhon")}")
+    println("21. ${saludar("Juan")}")
 
     // 22. Suma Exprés
     println("22. Suma de 15 + 30 = ${sumar(15, 30)}")
